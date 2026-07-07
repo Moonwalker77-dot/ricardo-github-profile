@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Ricardo Gonzalez, Jr*
 ##  About Me
-_I am currently pursuing a Bachelor's degree in Multidisciplinary Studies at UTSA while working as a Transportation Engineering Technician III for TxDOT. I enjoy learning cybersecurity, GIS, artificial intelligence, and engineering technologies._
+_I am currently pursuing a Bachelor's degree in Multidisciplinary Studies at UTSA while working as a Transportation Engineering Technician III for TxDOT. I enjoy learning cybersecurity, GIS, artificial intelligence, Civil Engineering Technology, and innovative engineering soulutions_
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
